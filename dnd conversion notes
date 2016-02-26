@@ -1,0 +1,69 @@
+*** Levels ***
+
+D&D 4e contains monsters of level 1-36, with the highest levels for divine avatars & the like.
+Strike! contains monsters of level [2 4 6 8 10 12] (odd levels can appear in custom monsters).
+
+One possible map is:
+1-6 = 2
+7-12 = 4
+13-18 = 6
+19-24 = 8
+25-30 = 10
+31-36 = 12
+
+That looks pretty dumb. High-level Strike! characters don't have the combat abilities of a demigod.
+
+On the other hand, the iconic dragon is level 7 titan in Strike!, level 17-22 (elder white/red)in 4e. That isn't too far off.
+(Arguably 4e should use the ancient white/red at level 24-30 to match the 4x4 size, but I'll just chalk that up to 4e not having titan rules and thus being hesitant to break out the truly massive sizes.)
+
+So let's go with that for now. There will be a "match levels 1 to 1" option and a "match levels 1 to 1/3 rounded up" option.
+
+            ** Ranks ***
+
+* 4e            * Strike!
+Minion          Stooge
+                Goon                (complex Minion or simple Standard)
+Standard        Standard
+Elite           Elite
+Solo            Champion
+                Titan               (case-by-case; can't easily be auto-generated)
+
+*** Roles ***
+
+Case-by-case basis :-(
+
+* Strike!:
+Blaster         Ranged AoE, push burst
+Crowd Control   Control ranged AoE, weakening burst
+Striker         High-damage melee, shifty
+Sniper          High-damage ranged, shifty
+Defender        Protection melee, mark, sticky
+Brawler         Control burst, pull, sticky
+Leader          Heal, command, resurrect
+Grappler        Grab
+Drainer         Control melee, dominate, pull, leech
+Controller      Control ranged
+Brute           2x2, push melee, grab, regen
+Charger         Charge, push melee
+Sneak           Backstab m/r, escape melee, stealth
+Heckler         Control m/r, pull, sticky
+Horror          Push melee, control ranged, sticky, stun aura
+Packmaster      Summon, resurrect, command, sacrifice
+
+Here are some reasonable defaults:
+
+* 4e            * Strike!
+Artillery       Sniper
+Brute           Striker (or Brute if at least 2x2)
+Controller      Controller
+Lurker          Sneak
+Skirmisher      Striker
+Soldier         Defender
+[Leader]        Leader
+
+
+
+*** The list ***
+* Name                  * D&D           * Strike!
+Angel of Protection     14 Soldier      6 Defender + flight
+Angel of Battle

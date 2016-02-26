@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1456488204019">{:repl-history {:ide [], :local [&quot;foo&quot; &quot;(ns strike.core)\n\n(defn foo\n  \&quot;I don't do a whole lot.\&quot;\n  [x]\n  (println x \&quot;Hello, World!\&quot;))\n&quot; &quot;(foo)&quot; &quot;(foo \&quot;hi\&quot;)&quot; &quot;(macroexpand '(defrecord User [Name Age]))&quot;], :remote []}}</component>
+</project>
